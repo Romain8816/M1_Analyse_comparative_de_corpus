@@ -1,7 +1,9 @@
+# Analyse comparative de corpus
+
 ## Sujet du projet : sujets.pdf (Analyse comparative de corpus)
 
 
-# Voici la liste des librairies à utiliser:
+## Voici la liste des librairies à utiliser:
 tkinter
 os
 re
